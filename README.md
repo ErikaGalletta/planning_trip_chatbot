@@ -1,0 +1,1 @@
+DataCamp platform project, with the goal of harnessing the potential of OpenAI's API, specifically using its state-of-the-art language model, GPT-3.5 Turbo, to create an AI-powered travel guide for the culturally rich city of Paris
